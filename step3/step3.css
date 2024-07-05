@@ -1,0 +1,112 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+body{
+  background-image: url(images/MicrosoftTeams-image\ \(6\).png);
+}
+.yangon2{
+  margin-left: 22%;
+  margin-top: 8%;
+}
+p{
+  margin-top: 30px;
+  font-size: 20px;
+}
+
+.yangon{
+  position: relative;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 1000px;
+  top: 50%;
+  background-color: rgba(27, 24, 24, 0.1);
+  backdrop-filter: blur(40px);
+  padding: 50px;
+  border-radius: 30px;
+}
+
+.yangon1{
+  color: #004AAD;
+}
+
+span{
+  font-style: italic;
+}
+
+.outer-box{
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10%;
+  margin-bottom: 100px;
+}
+
+.boxx{
+  color: white;
+  background-color: black;
+  min-height: 200px;
+  padding: 50px;
+  border-radius: 55px;
+}
+
+.shopiee{
+  margin-bottom: 30px;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.prev-next{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+  margin-top: 30px;
+}
+
+.gay{
+  font-family: "Poppins", sans-serif;
+  padding: 15px 30px;
+  font-weight: bold;
+  font-size: 15px;
+  border-radius: 10px;
+  border: none;
+  transition: 1s ease;
+}
+
+.gay i{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.gay:hover{
+  color: green;
+}
+
+.boxx p{
+  margin-top: 0 !important;
+}
+
+h1{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-top: 50px;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.fein{
+  display: flex;
+  margin-top: 20px;
+  justify-content: space-evenly;
+}
+
+.fein3 .fein4{
+  display: flex !important;
+  
+}
